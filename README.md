@@ -48,11 +48,18 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
 
-#### Computer Build:
+#### Build:
 
 ![Intel-Core_i9_10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
 ![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
 ![Apple_MacOS_Sonoma](https://img.shields.io/badge/Apple-MacOS_Sonoma-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+
+#### Cloud
+![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
+![Apple_MacOS_Sonoma](https://img.shields.io/badge/Apple-MacOS_Sonoma-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;</br>
+
 
 &nbsp;
 &nbsp;
