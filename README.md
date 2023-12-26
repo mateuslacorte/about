@@ -49,17 +49,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;</br>
 
-#### Tests:
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
-
-#### Build:
-
-![Intel-Core_i9_10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
-![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
-![Apple_MacOS_Sonoma](https://img.shields.io/badge/Apple-MacOS_Sonoma-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-
-#### Cloud
+#### Cloud:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
@@ -68,6 +58,23 @@
 ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;</br>
+
+#### Tests:
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
+
+#### Build:
+
+![Intel-Core_i9_10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
+![Hackintosh](https://img.shields.io/badge/Hackintosh-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+
+#### Tools:
+
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)&nbsp; 
+![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+
 
 &nbsp;
 &nbsp;
