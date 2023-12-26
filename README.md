@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> <strong> Fala Devs!</strong> 🦈 <br><br>Sou um apaixonado pela tecnologia, movido pela incessante busca por conhecimento, <br> apaixonado por desafios que impulsionam meu crescimento constante.</p>&nbsp;
