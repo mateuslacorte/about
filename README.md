@@ -68,13 +68,15 @@
 ![Intel-Core_i9_10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
 ![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![macOS_Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+![macOS_Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;</vr>
 
 
 #### Tools:
 
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)&nbsp; 
 ![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Sublime_Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+![ReplIT](https://img.shields.io/badge/ReplIT-667881?style=for-the-badge&logo=replit&logoColor=white)&nbsp;
 
 
 
