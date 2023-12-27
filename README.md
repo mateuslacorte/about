@@ -64,11 +64,17 @@
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
 
 #### Build:
+_Custom Desktop_:
 
 ![Intel-Core_i9_10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
 ![AMD-Radeon_RX_6800_XT](https://img.shields.io/badge/AMD-Radeon_RX_6800_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![macOS_Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;</vr>
+
+_Dell XPS_:
+
+![Intel-Core_i7_12th](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp;</vr>
 
 
 #### Tools:
