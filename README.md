@@ -6,7 +6,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mateuslacorte&theme=monokai&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+<img align="center" width=48.5% src="https://github-readme-streak-stats.herokuapp.com?user=mateuslacorte&theme=monokai&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mateuslacorte&show_icons=true&theme=monokai&layout=compact&langs_count=6" />
  </div>
 
