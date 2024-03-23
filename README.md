@@ -72,13 +72,6 @@ _Custom Desktop_:
 ![macOS_Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Safari](https://img.shields.io/badge/Safari-017CEE?style=for-the-badge&logo=Safari&logoColor=white)&nbsp;</br> 
 
-_Dell XPS_:
-
-![Intel-Core_i7_11th](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
-![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;</br>
-
-
 #### Tools:
 
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)&nbsp; 
