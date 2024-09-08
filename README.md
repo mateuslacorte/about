@@ -74,7 +74,7 @@ _Custom Desktop_:
 
 _MacBook Pro Mid 2020 A2251_:
 
-![Intel Core i7 10th](https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![Intel Core i7 10th](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
 ![Intel Iris Plus](https://img.shields.io/badge/Intel-Iris_Plus-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
 ![Apple](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![macOS_Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
